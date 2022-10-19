@@ -13,10 +13,10 @@ Vytvořte podmínku, která do proměnné cena uloží cenu spočítanou podle v
 - 65% ze základní ceny pro návštěvníky 6 až 26 let (žák, student),
 - 100% ze základní ceny pro návštěvníky 27 až 64 let (dospělý),
 - 50% ze základní ceny pro ostatní (senior).
-Nezapomeňte na zaokrouhlování, ať nám cena vyjde v celých centech.
+Nezapomeňte na zaokrouhlování, ať nám cena vyjde v celých centech. (využijte funkci round())
 
 Nakonec spočtenou cenu vypište s nějakou hezkou zprávou na výstup.
 
 ## 3 - Registrace
 
-Založte si program **registrace.py**. Program nechá uživatele, aby si zvolil uživatelské jméno a heslo. Heslo jej nechejte zadat dvakrát a ověřte, že jej uživatel zadal dvakrát stejně. V opačném případě vypište varování, že hesla nejsou stejná. Při prvním zadávání ověřte, že heslo je bezpečné, což v tomto případě znamená, že je delší než 8 znaků.
+Založte si program **registrace.py**. Program nechá uživatele, aby si zvolil uživatelské jméno a heslo. Heslo jej nechejte zadat dvakrát a ověřte, že jej uživatel zadal dvakrát stejně. V opačném případě vypište varování, že hesla nejsou stejná. Při prvním zadávání ověřte, že heslo je bezpečné, což v tomto případě znamená, že je delší než 8 znaků (využijte funkci len()).

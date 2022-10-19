@@ -16,6 +16,8 @@ hodnoceni = [7, 9, 6, 7, 9, 8]
 9/10
 8/10
 
+hesla = [ "xyz101", "punťa", "razor-blade", "1234", "12011986", "martin111", "trhnisi", "hokuspokus", "jeník15", "kristus-te-spasi", "beruška", "strčprstskrzkrk", ]
+
 ## 2 - Procházení seznamu
 Založte si program **hesla.py** a na jeho začátek vložte následující kód obsahující seznam hesel pro přihlášení do nějakého systému
 

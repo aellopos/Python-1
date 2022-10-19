@@ -16,12 +16,12 @@ Napište program **jmeno.py**, který získá jméno a příjmení od uživatele
 Nechte uživatele zadat také věk. Pozor na to, že funkce input() vždy vrací řetězec, ale my chceme v proměnné vek mít číslo. Použijte tedy funkci int(), abyste převedli uživatelem zadaný řetězec na číslo. Opět vypište na obrazovku jméno, příjmení a věk tak jako v předchozí verzi.
 
 ## 3 - Házení kostkami
-Napište program kostky.py, který bude simulovat hod dvěma klasickými šestistěnnými kostkami. Jeho výstupu bude součet bodů na těchto dvou kostkách.
+Napište program **kostky.py**, který bude simulovat hod dvěma klasickými šestistěnnými kostkami. Jeho výstupu bude součet bodů na těchto dvou kostkách.
 
 Nápověda:
 
-- Generování náhodných čísel dělá funkce **random.randint()**.
-- Pokud chcete ve vašem programu použít modul random, musíte na jeho úplném začátku napsat příkaz **import random**
+- Generování náhodných čísel dělá funkce random.randint().
+- Pokud chcete ve vašem programu použít modul random, musíte na jeho úplném začátku napsat příkaz import random
 
 ## 4 - Generátor čísel
 Napište program generator.py, který si od uživatele vyžádá dvě celá čísla - dolní mez a horní mez - a vypíše na výstup náhodné číslo v zadaných mezích.
