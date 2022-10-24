@@ -13,7 +13,7 @@
 - Další zdroje
 
 ## Na další setkání
-- Zaregistrovat se na https://www.customvision.ai/.
+- Zaregistrovat se na Azure (https://azure.microsoft.com/en-us/free/students/).
 
 ## Kontakt
 - michal.kucera@czechitas.cz
