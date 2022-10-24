@@ -15,7 +15,7 @@ Zkus pro našeho nakladatele vytvořit software s využitím tříd a objektů. 
 - Občas se stane, že se kniha moc neprodává a knihkupec se snaží nalákat kupující slevou. Přidej metodu sleva(), která bude mít jeden parametr - velikost slevy v procentech. Funkce sníží cenu knihy o dané procento.
 
 
-## 3 - Tombola
+## 3 - Zamestnanci
 U zaměstnanců budeme nově evidovat, jestli jsou ve zkušební době.
 
 - Rozšiř metodu __init__ třídy Zamestnanec o parametr zkusebni_doba, který bude typu bool. Tuto hodnotu ulož jako atribut třídy Zamestnanec.
